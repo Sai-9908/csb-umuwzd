@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://sai-9908.github.io/csb-umuwzd/static/css/main.de625edf.chunk.css",
+    "main.js": "https://sai-9908.github.io/csb-umuwzd/static/js/main.89f799e2.chunk.js",
+    "main.js.map": "https://sai-9908.github.io/csb-umuwzd/static/js/main.89f799e2.chunk.js.map",
+    "runtime-main.js": "https://sai-9908.github.io/csb-umuwzd/static/js/runtime-main.1f6a2a95.js",
+    "runtime-main.js.map": "https://sai-9908.github.io/csb-umuwzd/static/js/runtime-main.1f6a2a95.js.map",
+    "static/js/2.e7d2e486.chunk.js": "https://sai-9908.github.io/csb-umuwzd/static/js/2.e7d2e486.chunk.js",
+    "static/js/2.e7d2e486.chunk.js.map": "https://sai-9908.github.io/csb-umuwzd/static/js/2.e7d2e486.chunk.js.map",
+    "static/js/3.748ef1e4.chunk.js": "https://sai-9908.github.io/csb-umuwzd/static/js/3.748ef1e4.chunk.js",
+    "static/js/3.748ef1e4.chunk.js.map": "https://sai-9908.github.io/csb-umuwzd/static/js/3.748ef1e4.chunk.js.map",
+    "index.html": "https://sai-9908.github.io/csb-umuwzd/index.html",
+    "static/css/main.de625edf.chunk.css.map": "https://sai-9908.github.io/csb-umuwzd/static/css/main.de625edf.chunk.css.map",
+    "static/js/2.e7d2e486.chunk.js.LICENSE.txt": "https://sai-9908.github.io/csb-umuwzd/static/js/2.e7d2e486.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f6a2a95.js",
+    "static/js/2.e7d2e486.chunk.js",
+    "static/css/main.de625edf.chunk.css",
+    "static/js/main.89f799e2.chunk.js"
+  ]
+}
